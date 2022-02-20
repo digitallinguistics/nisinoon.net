@@ -1,0 +1,30 @@
+{
+  "name": "nisinoon.net",
+  "description": "The website for Nisinoon, the Algonquian Components project",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Monica Macaulay"
+    },
+    {
+      "name": "Hunter T. Lockwood"
+    },
+    {
+      "name": "Daniel W. Hieber"
+    }
+  ],
+  "bugs": "https://github.com/digitallinguistics/nisinoon.net/issues",
+  "homepage": "https://github.com/digitallinguistics/nisinoon.net",
+  "license": "MIT",
+  "keywords": [
+    "Algonquian",
+    "linguistics",
+    "language"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitallinguistics/nisinoon.net.git"
+  },
+  "private": true,
+  "scripts": {}
+}

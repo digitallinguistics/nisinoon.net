@@ -1,2 +1,3 @@
-# nisinoon.net
- Website for Nisinoon, the Algonquian Components project
+# Nisinoon.net
+
+The website for Nisinoon, the Algonquian Components project.
