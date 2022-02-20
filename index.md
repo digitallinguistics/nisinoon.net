@@ -4,7 +4,7 @@ title: Home
 # Algonquian Database Project
 
 <p align='center'>
-  <img src='./assets/images/trillium.svg' alt='trillium logo' height='100' width='100'>
+  <img src='./images/trillium.svg' alt='trillium logo' height='100' width='100'>
 </p>
 
 This project is an NSF-funded cross-linguistic database of the components which make up words in Algonquian languages. There are two main goals:
@@ -59,7 +59,7 @@ This database will be a web-based, open-access, centralized resource for Algonqu
 
 <figure>
   <p align='center'>
-    <img src='./assets/images/textile.jpg' alt='trillium textile' width='272' height='455'>
+    <img src='./images/textile.jpg' alt='trillium textile' width='272' height='455'>
   </p>
   <figcaption>
     <p align='center'>Trillium applique by Angela Waupochick</p>
