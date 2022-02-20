@@ -12,6 +12,7 @@ module.exports = function(config) {
 
   config.addPassthroughCopy(`bibliography/bibliography.js`);
   config.addPassthroughCopy(`favicon.ico`);
+  config.addPassthroughCopy(`fonts`);
   config.addPassthroughCopy(`images`);
   config.addPassthroughCopy({ 'layouts/main.css': `index.css` });
   config.setLibrary(`md`, mdParser);
@@ -23,7 +24,11 @@ module.exports = function(config) {
       layouts: `layouts`,
       output : `dist`,
     },
-    templateFormats: [`md`, `njk`],
+    templateFormats: [
+      `html`,
+      `md`,
+      `njk`,
+    ],
   };
 
 };
