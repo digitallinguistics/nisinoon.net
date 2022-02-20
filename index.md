@@ -3,8 +3,8 @@ title: Home
 ---
 # Algonquian Database Project
 
-<p align='center'>
-  <img src='./images/trillium.svg' alt='trillium logo' height='100' width='100'>
+<p align=center>
+  <img src=./images/trillium.svg alt='trillium logo' height=100 width=100>
 </p>
 
 This project is an NSF-funded cross-linguistic database of the components which make up words in Algonquian languages. There are two main goals:
@@ -58,12 +58,12 @@ This database will be a web-based, open-access, centralized resource for Algonqu
 [Nisinoon][Nisinoon] is an Ojibwe word meaning 'there are three'. We chose it to represent the tripartite structure of Algonquian words: initial-medial-final. Click on the word to learn more about the word and hear it pronounced.
 
 <figure>
-  <p align='center'>
-    <img src='./images/textile.jpg' alt='trillium textile' width='272' height='455'>
+  <p align=center>
+    <img src=./images/textile.jpg alt='trillium textile' width=272 height=455>
   </p>
   <figcaption>
-    <p align='center'>Trillium applique by Angela Waupochick</p>
-    <p align='center'>Photo by Rodney Schreiner</p>
+    <p align=center>Trillium applique by Angela Waupochick</p>
+    <p align=center>Photo by Rodney Schreiner</p>
   </figcaption>
 </figure>
 
