@@ -26,7 +26,6 @@
     "url": "https://github.com/digitallinguistics/nisinoon.net.git"
   },
   "private": true,
-  "type": "module",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve"

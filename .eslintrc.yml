@@ -11,8 +11,7 @@ extends:
 
 env:
   es2021: true
-  mocha:  true
-  shared-node-browser: true
+  node: true
 
 globals:
   process: writable
