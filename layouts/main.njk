@@ -40,6 +40,13 @@
       <link rel=icon href=../images/favicon.svg type=image/svg+xml>
     {% endif %}
 
+    {# styling for site shell #}
+    {% if title === 'Home' %}
+      <link rel=stylesheet href=index.css>
+    {% else %}
+      <link rel=stylesheet href=../index.css>
+    {% endif %}
+
   </head>
 
   <body>

@@ -127,5 +127,6 @@ dist
 .pnp.*
 
 # Project
+*.css
 _site
 dist

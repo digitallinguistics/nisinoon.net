@@ -1,5 +1,6 @@
 ---
-title: Home
+permalink: /
+title:     Home
 ---
 # Algonquian Database Project
 
