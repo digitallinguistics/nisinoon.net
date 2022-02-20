@@ -14,7 +14,6 @@ module.exports = function(config) {
   config.addPassthroughCopy(`favicon.ico`);
   config.addPassthroughCopy(`images`);
   config.addPassthroughCopy({ 'layouts/main.css': `index.css` });
-
   config.setLibrary(`md`, mdParser);
 
   return {
