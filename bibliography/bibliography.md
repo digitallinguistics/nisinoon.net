@@ -2,7 +2,7 @@
 title: Bibliography
 ---
 
-<script src=bibliography/bibliography.js></script>
+<script src=bibliography.js></script>
 
 # Bibliography
 
